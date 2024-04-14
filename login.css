@@ -4,15 +4,14 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f0f0f0; 
 }
 
-.cadastro-container {
+.login-container {
     width: 300px;
     padding: 20px;
     border: 1px solid #ccc;
     border-radius: 5px;
-    background-color: #fff;
+    background-color: #f9f9f9;
 }
 
 .input-group {
